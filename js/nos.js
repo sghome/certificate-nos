@@ -19,7 +19,6 @@ generate.addEventListener("click", (e) => {
   
 
   form.style.display = "none";
-  container.style.backgroundImage = "url('https://cdn.glitch.global/2bc9552a-c9df-4a0a-bdf1-af20de3c372e/nos-cert.png')";
 
 
 
