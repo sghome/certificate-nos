@@ -20,7 +20,11 @@ generate.addEventListener("click", (e) => {
   length.value = "";
 
   form.style.display = "none";
-  container.style.backgroundColor = "white";
+container.style.backgroundImage = "url('https://cdn.glitch.global/2bc9552a-c9df-4a0a-bdf1-af20de3c372e/nos-cert.png')";
+container.style.backgroundRepeat = "no-repeat";
+container.style.backgroundSize = "100% 100%";
+
+
 
   //Random Digits
   a = 1; //Min value
@@ -41,8 +45,7 @@ generate.addEventListener("click", (e) => {
   certificate.style.display = "block";
   certificate.innerHTML = `<div class="outer">
   
-  <div class="outer" style="background-image: url('https://cdn.glitch.global/2bc9552a-c9df-4a0a-bdf1-af20de3c372e/nos-cert.png')">
-      
+ 
   <div class="light-br">
       <div class="dark-br">
           <div class="main-content">
