@@ -1,7 +1,6 @@
 let fname = document.getElementById("fname");
 let lname = document.getElementById("lname");
 
-let length = document.getElementById("length");
 
 let form = document.getElementById("form");
 let container = document.querySelector(".container");
@@ -11,13 +10,13 @@ generate.addEventListener("click", (e) => {
   let first_name = fname.value;
   let last_name = lname.value;
 
-  let c_length = length.value;
+  
 
   e.preventDefault();
   fname.value = "";
   lname.value = "";
 
-  length.value = "";
+  
 
   form.style.display = "none";
 
