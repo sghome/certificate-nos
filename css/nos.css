@@ -18,7 +18,19 @@
 }
 .left-side {
   width: 25%;
+  
+  
+  
+  position: absolute;
+
+
+z-index: -1; 
+
+
 }
+
+
+
 
 
 
