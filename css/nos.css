@@ -51,11 +51,11 @@ z-index: -1;
   border: 20px solid white;
 }
 .light-br {
- 
+  border: 3px solid rgba(177, 177, 177, 0.746);
   padding: 4px;
 }
 .dark-br {
-  border: 15px solid rgba(135, 135, 135, 0.81);
+  
   padding: 8px;
 }
 .right-content {
