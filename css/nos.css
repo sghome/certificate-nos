@@ -195,8 +195,8 @@ input {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: #dbdbdbc3;
-  opacity: 0.1;
+  
+
 }
 #download {
   display: none;
