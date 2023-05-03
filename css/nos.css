@@ -77,16 +77,14 @@ z-index: -1;
 }
 
 .congrats,
-.course-name,
 .para,
-.authority,
 .certificate-id {
   margin-left: 350px;
 }
 
 .congrats > h3 {
   font-size: 23px;
-  font-weight: 300;
+  font-weight: 500;
   margin-top: 150px;
 }
 
@@ -97,7 +95,7 @@ z-index: -1;
 }
 .course-name {
   color: #6e6f6e;
-  margin-top: 45px;
+  margin-top: 25px;
 }
 .course-name > h1 {
   margin: 0;
@@ -120,15 +118,7 @@ z-index: -1;
   font-size: 17px;
   font-weight: 400;
 }
-.authority {
-  margin-top: 15px;
-  font-size: 12.6px;
 
-  font-weight: 300;
-  display: flex;
-  color: #707071;
-  align-items: flex-end;
-}
 
 .vl {
   border: 1px solid #d0d0d1;
@@ -142,7 +132,7 @@ z-index: -1;
   font-weight: 500;
 }
 .certificate-id {
-  margin-top: 140px;
+  margin-top: 240px;
   font-size: 13px;
 }
 
