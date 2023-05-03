@@ -56,20 +56,7 @@ generate.addEventListener("click", (e) => {
                   </div>
                   
                  
-                  <div class="authority">
-                      <div class="part-1">
-                          <img id="sign" src="img/Sign2.JPG" alt="">
-                          <h3>President, Neotropical Ornithological Society</h3>
-                      </div>
-                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div
-                          class="vl"></div>
-                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div
-                          class="part-2">
-                          <h3>Sociedad de Ornitología Neotropical</h3>
-                          <h3>ornitologianeotropical.org</h3>
-                          <h3>@ornitologianeot</h3>
-                      </div>
-                  </div>
+                
                   <div class="certificate-id">Certificate Id: AU${rand4}IZ${rand2}a${rand2}rPeUmO_IE${rand4}R${rand4}0L${rand4}ac${rand2}sN</div>
               </div>
           </div>
