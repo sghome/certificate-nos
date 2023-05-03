@@ -55,7 +55,7 @@ z-index: -1;
   padding: 4px;
 }
 .dark-br {
-  
+  border: 15px solid rgba(135, 135, 135, 0.81);
   padding: 8px;
 }
 .right-content {
@@ -196,6 +196,7 @@ input {
   align-items: center;
   height: 100vh;
   background-color: #dbdbdbc3;
+  opacity: 0.1;
 }
 #download {
   display: none;
