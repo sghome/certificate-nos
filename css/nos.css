@@ -68,9 +68,10 @@
 }
 
 .congrats > h3 {
-  font-size: 23px;
-  font-weight: 500;
+  font-size: 35px;
+  font-weight: 120;
   margin-top: 150px;
+  margin-left: 350px;
 }
 
 .congrats > h2 {
